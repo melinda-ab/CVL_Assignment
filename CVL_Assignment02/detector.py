@@ -476,4 +476,8 @@ if __name__ == "__main__":
     for r in final_report:
         print(f"{r['name']:<12} | {r['total']:<5} | {r['TP']:<3} | {r['FP']:<3} | "
               f"{r['FN']:<3} | {r['prec']:.2f}  | {r['rec']:.2f}  | {r['iou']:.2f}")
+<<<<<<< HEAD
     print("=" * 60)
+=======
+    print("=" * 60)
+>>>>>>> 14b53c920b6eebe7305a19ed657b73aaa77b1089
